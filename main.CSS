@@ -1,0 +1,61 @@
+
+body {
+    background-color: white;
+  }
+  img{
+    position: relative;
+    top: 0;
+    right: 0;
+    width: 200px;
+    height: 150px;
+  }
+ 
+  h1 {
+    color: black;
+    
+  }
+  h2 {
+    color: black;
+  }
+  
+  p {
+    color: black;
+  }
+  
+ 
+
+  .countdown {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 50px;
+    color: black;
+  }
+
+  .clock-logo {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 200px;
+    height: 200;
+    margin: 0 auto;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
+   .logo {
+      width: 5px;
+      height: 6px;
+   }
+   summary{
+    font-weight: bold;
+    color: black;
+   }
+   
